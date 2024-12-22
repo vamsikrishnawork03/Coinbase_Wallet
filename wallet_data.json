@@ -1,0 +1,42 @@
+{
+  "8117836e-a4bf-45f2-b215-1daba31e933b": {
+    "wallet_id": "8117836e-a4bf-45f2-b215-1daba31e933b",
+    "seed": "96d5e2743c3dd7732f232a395946218217ac62609ac16affff70a43d5fc1860000c9525bacd1eb808c320fc9796eba2a7dbd688a426323e5105c41077aa862fd",
+    "network_id": "base-sepolia"
+  },
+  "cc36caa2-d84c-4ee4-9445-aea1787e665b": {
+    "wallet_id": "cc36caa2-d84c-4ee4-9445-aea1787e665b",
+    "seed": "8899b50d6a03ca1339d32580777a320014c5e79c1626a7885e2e552781866c41d38be6417562c0d681172cc2c1caf9772572adbc54b6a50055462b1bac1339e1",
+    "network_id": "base-sepolia"
+  },
+  "d4919d1f-79ad-4381-b4e7-62de4b75f582": {
+    "wallet_id": "d4919d1f-79ad-4381-b4e7-62de4b75f582",
+    "seed": "99e25e589f91b79bf19331c1d1bcc5bc5e341878dc41a49d5c07de7c83c4ececa5751c5ccd9137a5c745c83eb3b1a6822f21ce5e1268725999d671c2f162a8c2",
+    "network_id": "base-sepolia"
+  },
+  "a67b4ce5-fa14-4a35-8004-eecceb7424a2": {
+    "wallet_id": "a67b4ce5-fa14-4a35-8004-eecceb7424a2",
+    "seed": "99672ed70985016e24af9ec90b48b58e5559ba2fa11ead536106d3774eae0bb866b542b4cbef01bc85fcc6a89474ca9312475c293612f5275aefe1a91f073174",
+    "network_id": "base-sepolia"
+  },
+  "967b84ee-a94d-4a4c-b743-5a036d03bcd6": {
+    "wallet_id": "967b84ee-a94d-4a4c-b743-5a036d03bcd6",
+    "seed": "2bac50919d01998489619421185a485f9e44ed3645cfb3937f2166b9459e00d068fc0c79a14a6a9bb20a1023c00e57a945966ac544f2527782668b21e02b47d8",
+    "network_id": "base-sepolia"
+  },
+  "469a53f6-9cc3-4eee-94ad-69dcd7ed0fc8": {
+    "wallet_id": "469a53f6-9cc3-4eee-94ad-69dcd7ed0fc8",
+    "seed": "2c03c3aea2ea14dee7bb6f38c750b359ee4c17ad21456c727e0b2cd83198357c6f84eedcf99c6562d890aed74ef5962e342e0ef247d9e3775163b3b4f9ecbb64",
+    "network_id": "base-sepolia"
+  },
+  "8e0b2a99-2db4-4372-a698-80a65033542f": {
+    "wallet_id": "8e0b2a99-2db4-4372-a698-80a65033542f",
+    "seed": "e9621fe2c3ff5f978bff0431e0e0585ea236d7ab7a625c5a70d1dc9961b5e423d4f8b41798b9ef7286924360c8731c218b3aa2bdd676030fd85ac1d9308ddcf8",
+    "network_id": "base-sepolia"
+  },
+  "f1f015f9-00d5-4605-875d-41c8d59ff8d5": {
+    "wallet_id": "f1f015f9-00d5-4605-875d-41c8d59ff8d5",
+    "seed": "f21598f27fb60592941ecffff4282f336bf13b7e1334fe71a001386292ca183f50f84a3d242ddc70df3045ccb517b7109a8fda2091b343d582ee7d16c3cddd15",
+    "network_id": "base-sepolia"
+  }
+}
